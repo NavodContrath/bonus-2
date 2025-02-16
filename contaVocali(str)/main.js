@@ -6,4 +6,6 @@ Scrivi una funzione contaVocali(str) che accetti una stringa e restituisca il nu
 - function howManyVowels (for loop)+(IF condition for each vowel)
 */
 
+//string
+const string = "damn son where'd you find this?"
 
