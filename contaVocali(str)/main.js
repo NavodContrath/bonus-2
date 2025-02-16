@@ -15,6 +15,12 @@ function howManyVowels() {
     //for loop
     for (let i = 0; i < string.length; i++) {
         const thisLetter = string[i];
+        //if condition for each vowel
+        if (thisLetter == "a" || thisLetter == "e" || thisLetter == "i" || thisLetter == "o" || thisLetter == "u") {
+            countVowels += 1;
+        }
+        return countVowels
     }
 }
 console.log(countVowels);
+//output:8
