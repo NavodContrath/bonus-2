@@ -8,4 +8,6 @@ Scrivi una funzione contaVocali(str) che accetti una stringa e restituisca il nu
 
 //string
 const string = "damn son where'd you find this?"
+//vowel count variable
+let countVowels = 0
 
