@@ -11,6 +11,7 @@ const string = "damn son where'd you find this?"
 //vowel count variable
 let countVowels = 0
 //function
+howManyVowels()
 function howManyVowels() {
     //for loop
     for (let i = 0; i < string.length; i++) {
