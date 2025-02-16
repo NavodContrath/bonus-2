@@ -20,8 +20,8 @@ function howManyVowels() {
         if (thisLetter == "a" || thisLetter == "e" || thisLetter == "i" || thisLetter == "o" || thisLetter == "u") {
             countVowels += 1;
         }
-        return countVowels
     }
+    return countVowels
 }
 console.log(countVowels);
 //output:8
